@@ -41,9 +41,5 @@ Li-Fi or Light Fidelity is a wireless communication technology that utilizes lig
 
 1. Clone the repository to your local machine.
 2. Explore the source code files in the project folder.
-3. Watch the demo video to understand the prototype in action.
-4. Review the detailed report for comprehensive project insights.
+3. Feel free to contribute, report issues, or suggest improvements.
 
-Feel free to contribute, report issues, or suggest improvements.
-
-Good luck with your Li-Fi Hazard Detection Project! 🚨🔧
