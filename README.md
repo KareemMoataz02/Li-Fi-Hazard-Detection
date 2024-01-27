@@ -25,21 +25,36 @@ Li-Fi or Light Fidelity is a wireless communication technology that utilizes lig
   - Buzzer
   - LCD Display
 
-- **Main Application Logic:**
-  - Integration of MCAL and HAL components for hazard detection.
-  - Li-Fi communication for transmitting data.
-  - Alarms activation: buzzer and LCD display.
-  - Bluetooth communication to a mobile app for remote monitoring.
-  - User interface with two pushbuttons for start/stop operations.
-  - Mute pushbutton to silence alarms after detection.
-  - Detailed system layout, list of components, circuits wiring, and mobile app discussion in the report.
-  - Flow charts or pseudo-codes illustrating the main program flow.
-  - Group members' contributions outlined in the report.
-  - Documentation of problems faced and their solutions.
+### Integration of MCAL and HAL Components:
+
+Combine Microcontroller Abstraction Layer (MCAL) and Hardware Abstraction Layer (HAL) components for efficient hazard detection.
+
+### Li-Fi Communication:
+
+Utilize Li-Fi technology for reliable data transmission between the sender and Arduino receiver platform.
+
+### Alarms Activation:
+
+Trigger alarms, including a buzzer and LCD display, upon detection of potential hazards.
+
+### Bluetooth Communication with Mobile App:
+
+Establish Bluetooth communication with a mobile app created using App Inventor for remote monitoring.
+
+### User Interface Controls:
+
+Incorporate a user-friendly interface with two pushbuttons for start/stop operations.
+
+### Mute Pushbutton:
+
+Implement a mute pushbutton to silence alarms after hazard detection.
+
+### UART Communication with App Inventor:
+
+Add UART communication to the mobile app created with App Inventor to display alerts and enhance user interaction.
 
 ### Getting Started
 
 1. Clone the repository to your local machine.
 2. Explore the source code files in the project folder.
 3. Feel free to contribute, report issues, or suggest improvements.
-
